@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:label="light_intensity_sensor"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
